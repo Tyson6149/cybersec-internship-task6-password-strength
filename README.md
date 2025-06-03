@@ -21,7 +21,7 @@ password-strength-checker/
 
 ├── data/
 
-│ └── password_results.csv # Store results of password checks
+│ └── password_results.csv # Results of password checks
 
 ├── images/
 
@@ -33,7 +33,7 @@ password-strength-checker/
 
 ├── report/
 
-│ └── report.pdf # Final report (can be exported from Google Docs/Sheets)
+│ └── report.pdf # Final report 
 
 ├── README.md # Project overview and instructions
 
