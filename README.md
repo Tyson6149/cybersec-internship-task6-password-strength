@@ -26,7 +26,7 @@ password-strength-checker/
 ├── images/
 
 │ └── screenshot.png # Screenshots of results or tool usage
----
+
 ├── src/
 
 │ └── strength_checker.py # Python script to check password strength
