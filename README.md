@@ -19,15 +19,14 @@ The objective of this task is to understand the elements that make a password st
 ## 📁 Project Structure
 password-strength-checker/
 ├── data/
-│   └── password_results.csv         # Store results of password checks
+│ └── password_results.csv # Store results of password checks
 ├── images/
-│   └── screenshot.png               # Screenshots of results or tool usage (if any)
+│ └── screenshot.png # Screenshots of results or tool usage (if any)
 ├── src/
-│   └── strength_checker.py          # Python script to check password strength
+│ └── strength_checker.py # Python script to check password strength
 ├── report/
-│   └── report.pdf                   # Final report (can be exported from Google Docs/Sheets)
-├── README.md                        # Project overview and instructions
-
+│ └── report.pdf # Final report (can be exported from Google Docs/Sheets)
+├── README.md # Project overview and instructions
 ---
 
 ## 🧪 Passwords Tested
