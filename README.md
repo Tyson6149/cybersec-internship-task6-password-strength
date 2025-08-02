@@ -1,4 +1,4 @@
-# cybersec-internship-task6-password-strength
+# password-strength
 Password strength evaluation and report generation for Cyber Security Internship Task 6
 # 🔐 Password Strength Checker – Cybersecurity Internship Task 6
 
